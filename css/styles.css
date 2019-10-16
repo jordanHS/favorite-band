@@ -1,0 +1,14 @@
+.shows {
+  float: right;
+}
+
+.text-columns {
+  width: 30%;
+  margin: 1%;
+  float: left;
+}
+
+.band-pic {
+  float: left;
+  size: 200px;
+}
